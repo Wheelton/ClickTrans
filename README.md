@@ -1,28 +1,21 @@
-# Getting Started with Create React App
+# Short instruction how to start this project on your computer:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Create new directory and start a console here, then write this:
 
-## Available Scripts
+### `git clone https://github.com/Wheelton/ClickTrans.git`
 
-In the project directory, you can run:
+It will download this repository to your local storage
+
+## After you received a clone of this repository, write:
+
+### `npm install`
+ 
+It will install all dependencies(libraries) for a project to run stable.
+The next commmand is:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+This command is for starting the React project on your local:  (`http://localhost:3000`)
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
