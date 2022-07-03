@@ -1,6 +1,6 @@
 # Welcome to ClickTrans recruitment task realisation
 
-***Note: This project was created via `create-react-app` so make sure you have Node >= 14.0.0 and npm >= 5.6 on your machine. ***
+*** Note: This project was created via `create-react-app` so make sure you have Node >= 14.0.0 and npm >= 5.6 on your machine. ***
 
 # Short instruction how to start this project on your computer:
 
